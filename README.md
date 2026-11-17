@@ -88,6 +88,7 @@ The system provides separate functionalities for candidates and employers, makin
 
 ## Project Structure
 
+```text
 HireTrack/
 │
 ├── db.php
@@ -114,6 +115,7 @@ HireTrack/
 ├── tcpdf/
 │
 └── README.md
+```
 
 
 ## Installation and Setup
