@@ -88,21 +88,32 @@ The system provides separate functionalities for candidates and employers, makin
 
 ## Project Structure
 
-```text
 HireTrack/
 │
 ├── db.php
-├── index.php
-├── login.php
 ├── register.php
+├── login.php
+├── logout.php
 ├── dashboard.php
-├── candidate/
-├── employer/
-├── jobs/
+│
+├── profile.php
+│
+├── add_job.php
+├── view_jobs.php
+├── edit_job.php
+├── delete_job.php
+│
+├── apply_job.php
+├── my_applications.php
+├── saved_jobs.php
+│
 ├── uploads/
+│   ├── resumes/
+│   └── company_logos/
+│
+├── tcpdf/
+│
 └── README.md
-```
-
 
 
 ## Installation and Setup
@@ -148,9 +159,7 @@ The project uses MySQL to store and manage:
 
 **Siddhi Gaikar**
 
-GitHub: [Siddhigaikar](https://github.com/Siddhigaikar)
 
-LinkedIn: [Siddhi Gaikar](https://linkedin.com/in/siddhi-gaikar-15a064329/)
 
 ---
 
