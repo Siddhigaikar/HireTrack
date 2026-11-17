@@ -28,12 +28,6 @@ The system provides separate functionalities for candidates and employers, makin
 - View Candidate Applications
 - Manage Application Status
 
-### Admin / Dashboard
-- Dashboard with Statistics
-- Manage Users
-- View Job Listings
-- Monitor Applications
-
 ## Technologies Used
 
 - **Frontend:** HTML, CSS, Bootstrap 5, JavaScript
@@ -49,6 +43,35 @@ Registration
 Login
 <img width="1000" height="584" alt="image" src="https://github.com/user-attachments/assets/5e85e913-06a1-4bb2-9f84-574c8c063ba1" />
 
+Employer Dashboard
+<img width="1470" height="834" alt="image" src="https://github.com/user-attachments/assets/6b55a072-0b59-4c43-bef5-0d2173d01032" />
+
+Company Profile
+<img width="1462" height="748" alt="image" src="https://github.com/user-attachments/assets/e9da9a75-b590-470c-b93c-922f9835c379" />
+
+Add Job
+<img width="1398" height="816" alt="image" src="https://github.com/user-attachments/assets/3b4fe98c-9d32-471a-b539-3706760d3a05" />
+
+Edit Job
+<img width="1053" height="816" alt="image" src="https://github.com/user-attachments/assets/143152d7-2f01-4a8d-99de-7ccb0c839ec5" />
+
+Update the Status of the Applied Candidate
+<img width="1078" height="329" alt="image" src="https://github.com/user-attachments/assets/5966176b-76c8-41ee-8a1f-0601fb5ad8b1" />
+
+Candidate Dashboard
+<img width="988" height="769" alt="image" src="https://github.com/user-attachments/assets/dd24b930-6e1b-4cc8-98a9-0c4a6e2dc987" />
+
+Apply Jobs
+<img width="1131" height="711" alt="image" src="https://github.com/user-attachments/assets/5ba0281b-f4d0-4683-a458-2e1d88ca425b" />
+
+View Applied Jobs
+<img width="1035" height="275" alt="image" src="https://github.com/user-attachments/assets/44b14ab4-2876-4aec-a667-091d1d69c649" />
+
+View Saved Jobs
+<img width="985" height="470" alt="image" src="https://github.com/user-attachments/assets/4c9f84bc-2dfd-4dd3-be16-833bc3b0697a" />
+
+Candidate Profile
+<img width="753" height="585" alt="image" src="https://github.com/user-attachments/assets/636495c6-d617-4ea9-8064-21d351feaa8b" />
 
 
 ## Project Structure
